@@ -13,7 +13,7 @@ The projects help in learning embedded systems basics, Arduino programming, circ
 	•	Learning Goal: LCD interfacing & using millis() for timing.
 	•	🔗 TinkerCAD : https://www.tinkercad.com/things/iLScSZgxTwb-sizzling-juttuli
  
-    Video Demo : https://drive.google.com/file/d/1k1lqxX8SAzY3t-FiJhF3WKcstW799VVN/view?usp=drive_link
+        https://drive.google.com/file/d/1k1lqxX8SAzY3t-FiJhF3WKcstW799VVN/view?usp=drive_link
 
 ⸻
 
