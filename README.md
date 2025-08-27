@@ -12,7 +12,6 @@ The projects help in learning embedded systems basics, Arduino programming, circ
 	•	Description: Displays “Hello World” on the LCD and shows a running seconds timer.
 	•	Learning Goal: LCD interfacing & using millis() for timing.
 	•	🔗 TinkerCAD : https://www.tinkercad.com/things/iLScSZgxTwb-sizzling-juttuli
- 
         https://drive.google.com/file/d/1k1lqxX8SAzY3t-FiJhF3WKcstW799VVN/view?usp=drive_link
 
 ⸻
