@@ -23,6 +23,7 @@ The projects help in learning embedded systems basics, Arduino programming, circ
 	•	Learning Goal: PWM (Pulse Width Modulation) & analog inputs.
 	•	🔗 TinkerCAD : https://www.tinkercad.com/things/bd08wCD26ch-cool-curcan-rottis
  
+ 
        Video Demo : https://drive.google.com/file/d/1A0uZU9hKtTbS5IcUfEWUz-SCuQDORtBx/view?usp=drive_link
 
 ⸻
@@ -31,5 +32,6 @@ The projects help in learning embedded systems basics, Arduino programming, circ
 	•	Components: Arduino Uno, LED, Resistors, Potentiometer
 	•	Description: controlling the brigntness of the led using potetiometer
 	•	🔗 TinkerCAD : https://www.tinkercad.com/things/fiN3uKWxa51-powerful-kasi
+ 
  
        Video Demo : https://drive.google.com/file/d/1BgzZsz63-3yoJie-rfvXfZvqLKnvF05p/view?usp=drive_link
